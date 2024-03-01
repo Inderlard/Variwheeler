@@ -2,7 +2,7 @@
 
 The Variwheeler is an omnidirectional car with variable geometry, it is characterized by the fact that the motor controllers can change position and regulate the height of the vehicle.
 
-![](https://github.com/Inderlard/Variwheeler/blob/main/Media/Variwheeler.jpg?raw=true)
+![](https://github.com/Inderlard/Variwheeler/blob/main/Media/Variwheeler.JPG?raw=true)
 
 ## Specifications
 
