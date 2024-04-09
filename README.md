@@ -6,6 +6,6 @@ The Variwheeler is an omnidirectional car with variable geometry, it is characte
 
 ## Specifications
 
-It should be noted that it has 4 laser sensors to avoid collisions and these same ones can use their omnidirectional wheels so that the entire car behaves like a lidar.
+It should be noted that it has 4 laser sensors to avoid collisions, it  has an extension below the front mobile platform for a QTR8-RC, and the servos, help to lock the geometry an cernain angle.
 
 Typically, the car is controlled by Wi-Fi, TCP connection using a gyroscope and two resistive sensors that will determine its direction and geometry.
