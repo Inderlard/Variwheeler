@@ -42,11 +42,11 @@ Documents >> Arduino >> libraries >> Variwheeler.
 
 ### Library by link
 
-You can use [this link](https://github.com/Inderlard/Variwheeler/tree/main/Library) to include in
+You can use [this link](https://github.com/Inderlard/Variwheeler.git) to include in
 
 ```Platformio
 lib_deps =
-	https://github.com/Inderlard/Variwheeler/tree/main/Library
+	https://github.com/Inderlard/Variwheeler.git
 ```
 
 ### Dependencies
@@ -74,9 +74,9 @@ To drive the car using the provided library, follow these steps:
 
 The CAD models for Variwheeler are available in the `cad` directory. These models include all the necessary components to assemble the car.
 
-- [CAD Models Directory](3D Files)
+- [CAD Models Directory](https://github.com/Inderlard/Variwheeler/tree/main/3D%20Files)
 
-![](Media\Variwheeler.JPG)
+![Image](https://github.com/Inderlard/Variwheeler/blob/main/Media/Variwheeler.JPG?raw=true)
 
 ## Library
 

@@ -24,21 +24,19 @@ At the moment, in this repository is currently the STEP file, but in the future 
 
 Visual aids to help you understand the Variwheeler components and assembly:
 
-![Main Image](Media\Variwheeler.JPG)
+![Main Image](https://github.com/Inderlard/Variwheeler/blob/main/Media/Variwheeler.JPG?raw=true)
 
-![Blast Image 1](Media\ASM1.JPG)
+![Blast Image 2](https://github.com/Inderlard/Variwheeler/blob/main/Media/ASM2.JPG?raw=true)
 
-![Blast Image 2](Media\ASM2.JPG)
-
-![Explosion Video](Media\ASM.mp4)
+[![Blast video](https://github.com/Inderlard/Variwheeler/blob/main/Media/ASM1.JPG?raw=true)](https://youtu.be/n90sf8BYTdI "Blast video")
 
 ## Blueprints
 
-![Blueprint 1](Media\Blueprint1.png)
+![Blueprint 1](https://github.com/Inderlard/Variwheeler/blob/main/Media/Blueprint1.png?raw=true)
 
-![Blueprint 2](Media\Blueprint2.png)
+![Blueprint 2](https://github.com/Inderlard/Variwheeler/blob/main/Media/Blueprint2.png?raw=true)
 
-![Blueprint 3](Media\Blueprint3.png)
+![Blueprint 3](https://github.com/Inderlard/Variwheeler/blob/main/Media/Bluepirnt3.png?raw=true)
 
 ## License
 
